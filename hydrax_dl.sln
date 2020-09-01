@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hydrax_dl", "hydrax_dl\hydrax_dl.csproj", "{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hydraxApi", "hydraxApi\hydraxApi.csproj", "{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KissAnimeAPI", "KissAnimeAPI\KissAnimeAPI.csproj", "{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hydraxv2", "hydraxv2\hydraxv2.csproj", "{AB8A569E-2A3D-4F75-A500-9DB8434FA211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Debug|x64.ActiveCfg = Debug|x64
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Debug|x64.Build.0 = Debug|x64
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Release|x64.ActiveCfg = Release|x64
+		{C6C616D4-776F-4DC2-ABF2-D0EC5891CA5F}.Release|x64.Build.0 = Release|x64
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Debug|x64.ActiveCfg = Debug|x64
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Debug|x64.Build.0 = Debug|x64
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Release|x64.ActiveCfg = Release|x64
+		{D1053B0E-D2A9-4294-BA52-B08CD520B0FB}.Release|x64.Build.0 = Release|x64
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Debug|x64.ActiveCfg = Debug|x64
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Debug|x64.Build.0 = Debug|x64
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Release|x64.ActiveCfg = Release|x64
+		{80EA4415-3E58-47A6-9ABB-AFB71C5FC923}.Release|x64.Build.0 = Release|x64
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Debug|x64.Build.0 = Debug|Any CPU
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Release|x64.ActiveCfg = Release|Any CPU
+		{AB8A569E-2A3D-4F75-A500-9DB8434FA211}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0835F33A-235E-4855-9B79-EAD5C232E67A}
+	EndGlobalSection
+EndGlobal
